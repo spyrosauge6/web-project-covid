@@ -1,5 +1,6 @@
 # web-project-covid
-Website wit﻿﻿h statistics of crowdsourced traffic data in order to avoid spreading of COVID-19
+Website wit﻿﻿h statistics of crowdsourced traffic data in order to avoid spreading of COVID-19.
+
 Αυτό το project αναπτύχθηκε στο πλαίσιο του μαθήματος Web Programming (CEID, Πανεπιστήμιο Πατρών) κατά τη διάρκεια του COVID-19.
 Πρόκειται για μια web εφαρμογή καταγραφής και οπτικοποίησης κρουσμάτων COVID-19, βασισμένη σε PHP και MySQL, με δυνατότητα χρήσης χάρτη, 
 καταχώρησης κρουσμάτων, διαχείρισης προφίλ, και οπτικοποίησης δεδομένων.
